@@ -9,16 +9,22 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "framer-motion": "^11.2.10",
+    "gsap": "^3.12.5",
+    "install": "^0.13.0",
+    "locomotive-scroll": "^5.0.0-beta.13",
+    "next": "14.2.4",
+    "npm": "^10.8.1",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.4"
+    "sass": "^1.77.5"
   },
   "devDependencies": {
-    "typescript": "^5",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "eslint": "^8",
-    "eslint-config-next": "14.2.4"
+    "eslint-config-next": "14.2.4",
+    "typescript": "^5"
   }
 }
